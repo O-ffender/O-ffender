@@ -4,7 +4,7 @@
 <p align="center">
     Offender the Skid Lord
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=O-ffender&color=black">
+<img src="https://komarev.com/ghpvc/?username=O-ffender&color=red">
 </p>
 <p align="center">
 I'll be adding bunch of stuff on github for people to use.
