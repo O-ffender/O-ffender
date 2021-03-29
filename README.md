@@ -10,7 +10,7 @@
 I'll be adding bunch of stuff on github for people to use.
 <p align="center"> 
 <p align="center">
-Currently learning how to Skidding
+Currently learning how to Skid like a Pro
 <p align="center"> 
     ﹒
     <a href="https://discord.com/users/647532608778928133">Discord</a>
