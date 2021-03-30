@@ -27,5 +27,5 @@ Currently learning how to Skid like a Pro
     
 </p>
 <p align="center">  
-Send me Friend Request on Discord, Subscribe to my Youtube, Follow me on Roblox, Join my Support Server and i got idea of making this Readmen from 17teen ;)
+Send me Friend Request on Discord, Subscribe to my Youtube, Follow me on Roblox, Join my Support Server.
 </p>
