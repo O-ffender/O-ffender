@@ -11,7 +11,7 @@ I'll be adding bunch of stuff on github for people to use.
 <p align="center"> 
 <p align="center">
 Currently learning how to Skid like a Pro
-
+<p align="center">
 [![stats](https://github-readme-stats.vercel.app/api?username=O-ffender&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 <p align="center"> 
