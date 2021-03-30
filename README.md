@@ -11,6 +11,7 @@ I'll be adding bunch of stuff on github for people to use.
 <p align="center"> 
 <p align="center">
 Currently learning how to Skid like a Pro
+[![stats](https://github-readme-stats.vercel.app/api?username=skeqt&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) <br>
 <p align="center"> 
     ﹒
     <a href="https://discord.com/users/647532608778928133">Discord</a>
